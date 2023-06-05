@@ -1,2 +1,4 @@
-# Bank_Customer_Churn_prediction
-Bank customers prediction
+Bank customers prediction.
+The model is Support Vector Machine(classifier).
+Visualization of Data using Seaborn Library.
+SVM is import from sklearn Libray
